@@ -125,8 +125,8 @@ animePoster: {
 animeTitle: {
   fontSize: 16,
   fontWeight: 'bold',
-  textAlign: 'center', // Center the title within the item container
-  width: '100%', // Set the width to 100% to fill the item container
+  textAlign: 'center', 
+  width: '100%', 
 }
 
 });
