@@ -96,7 +96,7 @@ const styles = StyleSheet.create({
     
     padding: 16,
     marginTop: 15,
-    backgroundColor: 'grey',
+    backgroundColor: 'red',
   },
   searchBar: {
     height: 40,
